@@ -1,0 +1,11 @@
+Q6-
+A- A's no-arg constructor is invoked
+B- compile error 
+Q7-
+Line 5 syntax error  no this
+Line 21 Circle(radius) to Super(radius)
+Line 22 syntax error  no this
+
+Q8-Overridden
+
+Q9-it will be a Syntax error
